@@ -1,4 +1,3 @@
-# bluetemp
 
 A new Flutter project.
 
